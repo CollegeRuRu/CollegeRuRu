@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h3>👀 Dit is mijn student account gemaakt alleen voor school werk.
 <br>
 <br>
-🌱 Momenteel ben ik PHP en JS aan te leren  
+🌱 Momenteel ben ik PHP en UE5 aan te leren  
 </h3>
 
 <h2>⚡Fun fact </h2>
