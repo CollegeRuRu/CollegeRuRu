@@ -1,19 +1,16 @@
-<!---
-NotRuRu/NotRuRu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1>👋 Hallooo!</h1>
-<h3>👀 Dit is mijn student account gemaakt alleen voor school werk.
-<br>
-<br>
-🌱 Momenteel ben ik PHP en UE5 aan te leren  
-</h3>
-
-<h2>⚡Fun fact </h2>
-<p> There is nothing fun about College </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=606468&text=RuRu&textBg=false&fontColor=FFF" alt="header">
+</p>
+<h1 align="center">👋 Helloo, I'm RuRu, and this is my College Account!</h1>
+<p align="center">I am a Software/Game Developer, I also enjoy working out 💪</p>
 
 
-<div>
-  <h2>👀 Wat kan ik al?</h2>
-  <p> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/--040404?style=flat&logo=php"/> <img src="https://img.shields.io/badge/Java-040404?"/> <img src="https://img.shields.io/badge/JS-black?style=flat&logo=javascript&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/--040404?style=flat&logo=adobepremierepro"/> <img src="https://img.shields.io/badge/--040404?style=flat&logo=adobephotoshop"/> </p>
-</div>
+## <p align="center">My skills 😌</p>
+<p align="center">Currently studying C# while learning game development in Unity. Also studying Java For Minecraft modding👌 </p>
+
+## <p align="center">☝️🤓"Languages" and Tools I use🤓👆</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,unity,cs,java,php,html,css,vscode,visualstudio,idea" />
+  </a>
+</p> 
